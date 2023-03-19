@@ -1,0 +1,44 @@
+.header{
+    background-color: rgb(60, 60, 240);
+    min-height: 70px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 5px;
+}
+.menu li{
+    padding: 5px;
+    margin-bottom: 7px;
+    background-color: #33b5e5 ;
+    color: #ffffff;
+    box-shadow: 0 1px 3px rgba(241, 233, 233, 0.12)
+    , 0px 1px 2px rgb(245, 0, 0)
+}
+
+.menu li:hover{
+    background-color: #0099cc;
+}
+.content{
+    padding: 15px;
+    margin-bottom: 7px ;
+    
+}    
+.aside{
+    background-color: violet;
+    padding: 15px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 14px; box-shadow: 0 1px 3px rgba(241, 233, 233, 0.12)
+    , 0px 1px 2px rgb(245, 0, 0)
+    
+}
+.aside h2{
+    padding: 10px;
+} 
+
+.footer{
+    background-color: tomato;
+    text-align: center;
+    padding: 15px;
+    margin-bottom:5px ;
+    font-size: 14px;
+}
